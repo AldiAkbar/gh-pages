@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gh-pages/static/css/main.36348ebf.css",
+    "main.js": "/gh-pages/static/js/main.c91ccf88.js",
+    "static/media/heroImage.png": "/gh-pages/static/media/heroImage.2b593d5c515080d2806f.png",
+    "static/media/covidFormImage.png": "/gh-pages/static/media/covidFormImage.ab866ff8bf882bcffc2d.png",
+    "index.html": "/gh-pages/index.html",
+    "main.36348ebf.css.map": "/gh-pages/static/css/main.36348ebf.css.map",
+    "main.c91ccf88.js.map": "/gh-pages/static/js/main.c91ccf88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36348ebf.css",
+    "static/js/main.c91ccf88.js"
+  ]
+}
