@@ -1,0 +1,32 @@
+/* Small Screen */
+.global {
+    text-align: center;
+}
+
+.global__title {
+    color: #06D6A0;
+    padding: 5rem 0 1rem 0;
+}
+
+.global__desc {
+    color: #118AB2;
+    padding-bottom: 4rem;
+}
+
+.global__statusGroup {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 992px) {
+    .global {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .global__statusGroup {
+        flex-direction: row;
+        padding-bottom: 5rem;
+    }
+
+}
